@@ -6,4 +6,4 @@ rate = input("What is the pay rate per hour?: ")
 pay = float(hours)*float(rate)
 
 print("Then you deserve",pay,"$")
-print("Great Job!")
+print("Goooood Job!")
